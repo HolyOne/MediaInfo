@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="MediaInfo.xsl"?>
+<SaveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" GenerateTime="2012-08-13T02:06:31.6172915+03:00">
+  <Medias>
+    
+    <Media Height="544" Width="1280" VideoCodec="AVC" AudioFormat="AC-3" VideoBitRate="4319000" AudioBitRate="192000" RunTime="106" AudioStreamCount="2" AudioChannelCount="2" AudioProfile="" Subtitles="" VideoFPS="23.976 fps" Filename="Th.Extrrdnry.Advntrs.Of.Adl.Blnc.Sc.2010.720p.Bluray.DUAL.x264-Creator(HDA).mkv" Directory="T:\" FileType="Video" Extension=".mkv" GroupName="T:\" _Size="4827423432">
+      <ExtraFiles />
+      <Checked>false</Checked>
+    </Media>
+    <Media Height="360" Width="640" VideoCodec="XviD" AudioFormat="MPEG Audio" VideoBitRate="848960" AudioBitRate="128000" RunTime="99" AudioStreamCount="1" AudioChannelCount="2" AudioProfile="Layer 3" Subtitles="" VideoFPS="25.000 fps" Filename="Cok.Film.Hareketler.2010.DVD.XviD-OpeD.avi" Directory="T:\" FileType="Video" Extension=".avi" GroupName="T:\" _Size="735347466">
+      <ExtraFiles />
+      <Checked>true</Checked>
+    </Media>
+    <Media Height="400" Width="704" VideoCodec="XviD" AudioFormat="AC-3" VideoBitRate="1897864" AudioBitRate="224000" RunTime="42" AudioStreamCount="1" AudioChannelCount="2" AudioProfile="" Subtitles="" VideoFPS="29.970 fps" Filename="Discovery Channel Why Ancient Egypt Fell.avi" Directory="T:\" FileType="Video" Extension=".avi" GroupName="T:\" _Size="672065536">
+      <ExtraFiles />
+      <Checked>false</Checked>
+    </Media>
+    <Media Height="352" Width="624" VideoCodec="XviD" AudioFormat="MPEG Audio" VideoBitRate="923046" AudioBitRate="128000" RunTime="91" AudioStreamCount="1" AudioChannelCount="2" AudioProfile="Layer 3" Subtitles="" VideoFPS="23.976 fps" Filename="The.Human.Centipede.BDRip.avi" Directory="T:\" FileType="Video" Extension=".avi" GroupName="T:\" _Size="734113792">
+      <ExtraFiles>
+        <string>The.Human.Centipede.BDRip.srt</string>
+      </ExtraFiles>
+      <Checked>false</Checked>
+    </Media>
+    <Media Height="0" Width="0" VideoCodec="" AudioFormat="" VideoBitRate="0" AudioBitRate="0" RunTime="0" AudioStreamCount="0" AudioChannelCount="0" AudioProfile="" Subtitles="" VideoFPS="" Filename="$ILYXLZB.mkv" Directory="T:\$RECYCLE.BIN\S-1-5-21-1670396234-696087549-198527309-1001" FileType="Video" Extension=".mkv" GroupName="T:\" _Size="544">
+      <ExtraFiles />
+      <Checked>true</Checked>
+    </Media>
+ 
+  </Medias>
+</SaveFile>
